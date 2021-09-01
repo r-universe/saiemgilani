@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/saiemgilani/universe
 	shallow = true
 	branch = HEAD
+[submodule "cfbfastR"]
+	path = cfbfastR
+	url = https://github.com/saiemgilani/cfbfastR
+	shallow = true
+	registered = true
+[submodule "hoopR"]
+	path = hoopR
+	url = https://github.com/saiemgilani/hoopR
+	shallow = true
+	registered = true
+[submodule "wehoop"]
+	path = wehoop
+	url = https://github.com/saiemgilani/wehoop
+	shallow = true
+	registered = true
+[submodule "recruitR"]
+	path = recruitR
+	url = https://github.com/saiemgilani/recruitR
+	shallow = true
+	registered = true
+[submodule "puntr"]
+	path = puntr
+	url = https://github.com/puntalytics/puntr
+	shallow = true
+	registered = true
+[submodule "gamezoneR"]
+	path = gamezoneR
+	url = https://github.com/jacklich10/gamezoneR
+	shallow = true
+	registered = true
+[submodule "worldfootballR"]
+	path = worldfootballR
+	url = https://github.com/jaseviz/worldfootballR
+	shallow = true
+	registered = true
