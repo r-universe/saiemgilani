@@ -1,6 +1,7 @@
 [
   {
-    "package": "cfbfastR"
+    "package": "cfbfastR",
+    "oncran": false
   },
   {
     "package": "hoopR"
