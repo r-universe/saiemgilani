@@ -7,7 +7,8 @@
     "package": "hoopR"
   },
   {
-    "package": "wehoop"
+    "package": "wehoop",
+    "oncran": false
   },
   {
     "package": "recruitR"
