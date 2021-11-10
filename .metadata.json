@@ -4,7 +4,8 @@
     "oncran": true
   },
   {
-    "package": "hoopR"
+    "package": "hoopR",
+    "oncran": false
   },
   {
     "package": "wehoop",
@@ -14,7 +15,16 @@
     "package": "recruitR"
   },
   {
-    "package": "puntr"
+    "package": "usfootballR"
+  },
+  {
+    "package": "powerplay"
+  },
+  {
+    "package": "baseballr"
+  },
+  {
+    "package": "fastRhockey"
   },
   {
     "package": "gamezoneR"

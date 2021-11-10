@@ -23,9 +23,24 @@
 	url = https://github.com/saiemgilani/recruitR
 	shallow = true
 	registered = true
-[submodule "puntr"]
-	path = puntr
-	url = https://github.com/puntalytics/puntr
+[submodule "usfootballR"]
+	path = usfootballR
+	url = https://github.com/saiemgilani/usfootballR
+	shallow = true
+	registered = true
+[submodule "powerplay"]
+	path = powerplay
+	url = https://github.com/saiemgilani/powerplay
+	shallow = true
+	registered = true
+[submodule "baseballr"]
+	path = baseballr
+	url = https://github.com/billpetti/baseballr
+	shallow = true
+	registered = true
+[submodule "fastRhockey"]
+	path = fastRhockey
+	url = https://github.com/benhowell71/fastRhockey
 	shallow = true
 	registered = true
 [submodule "gamezoneR"]
