@@ -50,6 +50,6 @@
 	registered = true
 [submodule "worldfootballR"]
 	path = worldfootballR
-	url = https://github.com/jaseviz/worldfootballR
+	url = https://github.com/jaseziv/worldfootballR
 	shallow = true
 	registered = true
