@@ -5,7 +5,7 @@
   },
   {
     "package": "hoopR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "wehoop",
