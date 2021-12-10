@@ -24,7 +24,8 @@
     "package": "baseballr"
   },
   {
-    "package": "fastRhockey"
+    "package": "fastRhockey",
+    "oncran": false
   },
   {
     "package": "gamezoneR"
