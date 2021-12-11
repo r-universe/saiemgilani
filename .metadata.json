@@ -25,7 +25,7 @@
   },
   {
     "package": "fastRhockey",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "gamezoneR"
