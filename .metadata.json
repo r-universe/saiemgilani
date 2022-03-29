@@ -31,7 +31,6 @@
     "package": "gamezoneR"
   },
   {
-    "package": "worldfootballR",
-    "oncran": true
+    "package": "worldfootballR"
   }
 ]
