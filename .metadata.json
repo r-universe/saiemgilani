@@ -21,7 +21,8 @@
     "package": "powerplay"
   },
   {
-    "package": "baseballr"
+    "package": "baseballr",
+    "oncran": false
   },
   {
     "package": "fastRhockey",
