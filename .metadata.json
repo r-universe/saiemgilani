@@ -22,7 +22,7 @@
   },
   {
     "package": "baseballr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "fastRhockey",
