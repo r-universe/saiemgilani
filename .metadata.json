@@ -1,15 +1,15 @@
 [
   {
     "package": "cfbfastR",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "hoopR",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "wehoop",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "recruitR"
@@ -26,7 +26,7 @@
   },
   {
     "package": "fastRhockey",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "gamezoneR"
