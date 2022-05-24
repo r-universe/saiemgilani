@@ -1,15 +1,15 @@
 [
   {
     "package": "cfbfastR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "hoopR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "wehoop",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "recruitR"
@@ -18,20 +18,41 @@
     "package": "usfootballR"
   },
   {
-    "package": "powerplay"
-  },
-  {
     "package": "baseballr",
     "oncran": true
   },
   {
     "package": "fastRhockey",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "gamezoneR"
   },
   {
+    "package": "toRvik",
+    "oncran": true
+  },
+  {
+    "package": "sportyR",
+    "oncran": true
+  },
+  {
     "package": "worldfootballR"
+  },
+  {
+    "package": "chessR",
+    "oncran": true
+  },
+  {
+    "package": "mlbplotR"
+  },
+  {
+    "package": "oddsapiR"
+  },
+  {
+    "package": "cfbplotR"
+  },
+  {
+    "package": "cfb4th"
   }
 ]
