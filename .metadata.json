@@ -37,7 +37,8 @@
     "oncran": true
   },
   {
-    "package": "worldfootballR"
+    "package": "worldfootballR",
+    "oncran": false
   },
   {
     "package": "chessR",
