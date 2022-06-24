@@ -48,7 +48,8 @@
     "package": "mlbplotR"
   },
   {
-    "package": "oddsapiR"
+    "package": "oddsapiR",
+    "oncran": true
   },
   {
     "package": "cfbplotR"
